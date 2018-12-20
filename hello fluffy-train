@@ -1,6 +1,5 @@
 /name fluffy-train
 /start
-/do things
+/do things while True
 /think about things
 /have a rest
-/repeat
